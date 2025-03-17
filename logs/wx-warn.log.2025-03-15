@@ -1,0 +1,78 @@
+ERROR 2025-03-15 00:00:00,455 [http-nio-8080-exec-5] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 00:00:17,467 [http-nio-8080-exec-9] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 00:00:22,678 [http-nio-8080-exec-2] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 00:00:24,910 [http-nio-8080-exec-7] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 00:00:24,910 [http-nio-8080-exec-8] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 00:00:24,913 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 00:00:24,913 [http-nio-8080-exec-8] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 02:11:33,531 [http-nio-8080-exec-4] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 02:13:11,827 [http-nio-8080-exec-1] com.qiguliuxing.dts.wx.web.WxCouponController > 个人可领取优惠券列表:用户未登录！！！
+ERROR 2025-03-15 02:52:35,566 [http-nio-8080-exec-3] com.qiguliuxing.dts.wx.web.WxCouponController > 个人可领取优惠券列表:用户未登录！！！
+ERROR 2025-03-15 03:19:15,657 [http-nio-8080-exec-9] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 11:41:36,748 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.web.WxCouponController > 个人可领取优惠券列表:用户未登录！！！
+ERROR 2025-03-15 11:45:29,190 [http-nio-8080-exec-9] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 20:39:22,200 [http-nio-8080-exec-4] com.qiguliuxing.dts.wx.web.WxCouponController > 个人可领取优惠券列表:用户未登录！！！
+ERROR 2025-03-15 20:39:55,981 [http-nio-8080-exec-5] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:43:57,506 [http-nio-8080-exec-8] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:49:55,064 [http-nio-8080-exec-10] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:49:55,068 [http-nio-8080-exec-10] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:51:20,561 [http-nio-8080-exec-8] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:51:25,798 [http-nio-8080-exec-4] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:51:32,819 [http-nio-8080-exec-1] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:51:32,819 [http-nio-8080-exec-1] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:51:34,287 [http-nio-8080-exec-5] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:51:34,288 [http-nio-8080-exec-5] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:51:40,882 [http-nio-8080-exec-2] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:52:49,753 [http-nio-8080-exec-9] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:53:05,990 [http-nio-8080-exec-3] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:05,990 [http-nio-8080-exec-3] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,003 [http-nio-8080-exec-1] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,003 [http-nio-8080-exec-1] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,005 [http-nio-8080-exec-9] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,005 [http-nio-8080-exec-9] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,011 [http-nio-8080-exec-10] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,012 [http-nio-8080-exec-10] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,017 [http-nio-8080-exec-5] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:53:06,019 [http-nio-8080-exec-8] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,019 [http-nio-8080-exec-8] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,028 [http-nio-8080-exec-6] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,029 [http-nio-8080-exec-6] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,034 [http-nio-8080-exec-1] com.qiguliuxing.dts.db.service.DtsAccountService > 根据代理用户id：200,获取账号信息出错!!!
+ERROR 2025-03-15 21:53:06,035 [http-nio-8080-exec-7] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,035 [http-nio-8080-exec-2] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:06,035 [http-nio-8080-exec-2] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:06,035 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:07,337 [http-nio-8080-exec-4] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:07,337 [http-nio-8080-exec-4] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2025-03-15 21:53:18,542 [http-nio-8080-exec-7] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2025-03-15 21:53:18,542 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败

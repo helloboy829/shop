@@ -1,0 +1,28 @@
+spring:
+  profiles:
+    active: @profile.active@
+  messages:
+    encoding: UTF-8
+  servlet:
+    multipart:
+      max-file-size: 50Mb
+      max-request-size: 80Mb
+      location: /tmp/tomcat_upload
+
+
+server:
+  port: @api.admin.port@
+  servlet:
+    context-path: /
+
+logging:
+  level:
+    root:  ERROR
+    org.springframework:  ERROR
+    org.mybatis:  ERROR
+    com.qiguliuxing.dts.admin:  DEBUG
+    com.qiguliuxing.dts:  INFO
+
+mybatis:
+  configuration:
+    mapUnderscoreToCamelCase: true
