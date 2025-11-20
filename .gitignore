@@ -59,6 +59,7 @@ upload/
 wx-mini-program/.DS_Store
 wx-mini-program/node_modules/
 
-# 数据库文件（太大）
+# 数据库文件（太大，不上传到GitHub）
+shop.sql
 *.sql.gz
 *.sql.zip
