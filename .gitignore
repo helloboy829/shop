@@ -1,0 +1,64 @@
+# Java 编译输出
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# 日志文件
+logs/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# 前端构建产物
+dist/
+build/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 配置文件（包含敏感信息）
+application-prod.yml
+application-*.yml
+!application-dev.yml
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# 存储文件
+my-storage/
+upload/
+
+# Claude 配置
+.claude/
+
+# 微信小程序
+wx-mini-program/.DS_Store
+wx-mini-program/node_modules/
+
+# 数据库文件（太大）
+*.sql.gz
+*.sql.zip
